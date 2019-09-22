@@ -1,5 +1,6 @@
 .App {
-  text-align: center;
+  width: 85%;
+  margin: 0 auto;
 }
 
 .App-logo {
@@ -19,4 +20,10 @@
 
 .App-link {
   color: #09d3ac;
+}
+
+.post {
+  padding: 5px 10px;
+  background-color: #f3f3f3;
+  margin: 10px 0;
 }
